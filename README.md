@@ -6,8 +6,8 @@ This GitHub repository contains a Python-based data analysis project that focuse
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Getting Started](#getting started)
-- [Data Sources](#data sources)
+- [Getting Started](#getting-started)
+- [Data Sources](#data-sources)
 - [Dependencies](#dependencies)
 
 ## Introduction
