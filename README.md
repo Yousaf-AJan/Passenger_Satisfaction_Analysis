@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-```bash
+   ```bash
    git clone https://github.com/your-username/Passenger_Satisfaction_Analysis.git
 
 ## Data Sources
@@ -34,9 +34,3 @@ The project utilizes an Airline's Passengers data from reputable sources.
 * Pandas
 * Matplotlib
 * Seaborn
-
-
-
-
-
-
